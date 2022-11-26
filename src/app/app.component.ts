@@ -4,7 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   template: `
     <h1>Architecture Example Hugo</h1>
-    <img src= "assets/Logo.png" class="center" width="200" height="80" display:block>
     <app-hero-list></app-hero-list>
     <app-sales-tax></app-sales-tax>
   `
